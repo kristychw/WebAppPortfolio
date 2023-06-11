@@ -1,0 +1,15 @@
+.services-container {
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.service-card img{
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.service-card p{
+  font-size: 16px;
+}
