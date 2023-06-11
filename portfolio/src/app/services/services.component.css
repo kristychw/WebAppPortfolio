@@ -1,15 +1,24 @@
 .services-container {
-  width: 980px;
+  max-width: 980px;
   margin-left: auto;
   margin-right: auto;
+  padding: 20px;
 }
 
 .service-card img{
-  width: 950px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.service-card h2{
+  font-size: 25px;
+  margin-top: 15px;
 }
 
 .service-card p{
   font-size: 16px;
+  line-height: 1.5;
 }
